@@ -7,5 +7,4 @@ If they do not have the required tags then the function will shut them down.
 You need to setup EventBridge within AWS to execute this function when an EC2 instance has a state change.
 
 ### More Info
-You can find more information here:
-https://aaron.vansledright/
+You can find more information [here](https://aaron.vansledright.com/check-ec2-instance-tags-on-launch/)
